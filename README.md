@@ -5,15 +5,18 @@
 </div>
 
 
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,html,css,react,vue,postgres,git" />
 </div>
+
 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amanda-soares-vieira-127853351" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
   </a>
+
 
   <a href="mailto:amandasoaresvieira5@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
