@@ -27,9 +27,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amandasoaresv&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasoaresv&layout=compact&langs_count=5&theme=dracula" height="150"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amandasoaresv&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=amandasoaresv&layout=compact&langs_count=6&theme=dracula)
+
 </div>
 
 <br clear="both"/>
