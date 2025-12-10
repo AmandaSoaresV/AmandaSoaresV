@@ -1,14 +1,17 @@
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=9B59B6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Amanda+Soares!!+:%29" />
   </a>
-</p>
+</div>
 
-<h2 align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,vue,postgres,git" />
-  </a>
-</h2>
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,react,vue,postgres,git" />
+</div>
+
+---
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amanda-soares-vieira-127853351" target="_blank">
@@ -24,20 +27,27 @@
   </a>
 </div>
 
-<br/>
+---
+
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amandasoaresv&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amandasoaresv&show_icons=true&theme=dracula&v=2)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=amandasoaresv&layout=compact&langs_count=6&theme=dracula)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=amandasoaresv&layout=compact&langs_count=6&theme=dracula&v=2)
 
 </div>
 
-<br clear="both"/>
+---
+
+<h2 align="center">🐱 Contribuições</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amandasoaresv/amandasoaresv/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amandasoaresv/amandasoaresv/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amandasoaresv/amandasoaresv/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+
