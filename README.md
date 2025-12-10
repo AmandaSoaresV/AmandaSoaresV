@@ -4,13 +4,10 @@
   </a>
 </div>
 
----
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,html,css,react,vue,postgres,git" />
 </div>
-
----
 
 
 <div align="center">
@@ -27,8 +24,6 @@
   </a>
 </div>
 
----
-
 
 <div align="center">
 
@@ -38,7 +33,6 @@
 
 </div>
 
----
 
 <h2 align="center">🐱 Contribuições</h2>
 
