@@ -6,10 +6,10 @@
 
 <br>
 
-<h2 align="center">Tecnologias</h2>
+<h2 align="center">Tecnologias & Ferramentas</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,react,vue,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,py,react,vue,vite,postgres,supabase,tailwind,git" />
 </div>
 
 <br>
