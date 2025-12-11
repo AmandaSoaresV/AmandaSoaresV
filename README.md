@@ -14,19 +14,19 @@
 
 <br>
 
-<h2 align="center">Redes Sociais</h2>
+<p align="left">
+  <a href="mailto:amandasoaresvieira5@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/amanda-soares-vieira-127853351" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+  <a href="https://www.linkedin.com/in/amanda-soares-vieira-127853351" title="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:amandasoaresvieira5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
+
+  <a href="https://www.instagram.com/amanda_soar6s" title="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.instagram.com/amanda_soar6s" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-</div>
+</p>
 
 <br>
 
