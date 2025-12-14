@@ -25,6 +25,8 @@ Tenho **19 anos** e sou estudante do último ano do **Técnico em Informática n
 <div align="center">
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=amandasoaresv&theme=tokyonight&hide_border=true&border_radius=6"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaSoaresV&layout=compact&theme=tokyonight&hide_border=true" />
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amandasoaresv&bg_color=0d1117&color=8b5cf6&line=6d28d9&point=4c1d95&area=true&hide_border=true&height=300&custom_title=Last+30+days+commits)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
