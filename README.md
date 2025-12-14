@@ -23,10 +23,10 @@ Tenho **19 anos** e sou estudante do último ano do **Técnico em Informática n
 ##  GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AmandaSoaresV&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=amandasoaresv&theme=tokyonight&hide_border=true&border_radius=6"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaSoaresV&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=amandasoaresv&theme=tokyonight&hide_border=true&border_radius=6"/>
+
 ---
 
 ##  Contato
