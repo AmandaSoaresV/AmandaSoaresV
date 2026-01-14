@@ -6,13 +6,14 @@
 
 ---
 
-##   Sobre mim
+## Sobre mim
 
-Tenho **19 anos** e sou estudante do último ano do **Técnico em Informática na UTFPR – Campus Campo Mourão**, .
+Tenho **19 anos** e sou estudante do último ano do **Curso Técnico em Informática** pela  
+**UTFPR – Campus Campo Mourão**.
 
 ---
 
-##  Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,py,react,vue,vite,postgres,supabase,tailwind,git" />
@@ -20,20 +21,24 @@ Tenho **19 anos** e sou estudante do último ano do **Técnico em Informática n
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=amandasoaresv&theme=tokyonight&hide_border=true&border_radius=6"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmandaSoaresV&theme=tokyonight&hide_border=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaSoaresV&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
+<br />
+
+<div align="center">
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amandasoaresv&bg_color=0d1117&color=8b5cf6&line=6d28d9&point=4c1d95&area=true&hide_border=true&height=300&custom_title=Last+30+days+commits)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmandaSoaresV&bg_color=0d1117&color=8b5cf6&line=6d28d9&point=4c1d95&area=true&hide_border=true&height=300&custom_title=Commits+recentes" />
+  
 </div>
 
 ---
 
-##  Contato
+## Contato
 
 <p align="center">
   <a href="mailto:amandasoaresvieira5@gmail.com">
@@ -51,7 +56,7 @@ Tenho **19 anos** e sou estudante do último ano do **Técnico em Informática n
 
 ---
 
-##  Contribuições
+## 🟣 Contribuições
 
 <div align="center">
   <picture>
