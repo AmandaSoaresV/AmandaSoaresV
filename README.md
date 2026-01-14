@@ -56,7 +56,7 @@ Tenho **19 anos** e sou estudante do último ano do **Curso Técnico em Informá
 
 ---
 
-## 🟣 Contribuições
+## Contribuições
 
 <div align="center">
   <picture>
