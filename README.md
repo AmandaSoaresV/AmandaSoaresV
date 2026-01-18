@@ -23,10 +23,11 @@ Tenho **19 anos** e sou estudante do último ano do **Curso Técnico em Informá
 ## GitHub Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmandaSoaresV&bg_color=0d1117&color=8b5cf6&line=6d28d9&point=4c1d95&area=true&hide_border=true&height=300&custom_title=Commits+recentes" />
-  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,react,vue,vite,postgres,supabase,figma,git" />
+  </a>
 </div>
+
 
 ---
 
