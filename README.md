@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?color=7B4AE2&size=34&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Amanda+Soares."
+    src="https://readme-typing-svg.herokuapp.com/?color=7B4AE2&size=34&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Amanda+Soares+Vieira."
   />
 </div>
 
