@@ -36,7 +36,8 @@ Atualmente estou em processo de aprofundamento na área de desenvolvimento de so
 
 <div align="center">
   <a href="https://www.instagram.com/amanda_soaresv">
-    <img src="https://img.shields.io/badge/Instagram-7B4AE2?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-3C0A6D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=5B2A86" />
+
   </a>
 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amandasoaresvieira5@gmail.com">
