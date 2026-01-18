@@ -8,8 +8,8 @@
 
 ## Sobre mim
 
-Tenho **19 anos** e sou estudante do último ano do **Curso Técnico em Informática** pela **UTFPR – Campus Campo Mourão**.  
-Atualmente, estou focada no desenvolvimento de minhas habilidades na área de software, buscando evolução contínua por meio de estudos, projetos práticos e contato com boas práticas de programação.
+Tenho **19 anos** e sou formada no **Curso Técnico em Informática** pela **UTFPR – Campus Campo Mourão**.  
+Atualmente, sigo estudando e praticando desenvolvimento de softwares, buscando evoluir cada vez mais na área.
 
 ---
 
