@@ -22,7 +22,7 @@ Tenho **19 anos** e sou estudante do último ano do **Curso Técnico em Informá
 
 ## GitHub Stats
 
-<div >
+<div align="center" >
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaSoaresV&layout=compact&theme=dracula"
