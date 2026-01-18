@@ -36,17 +36,18 @@ Atualmente estou em processo de aprofundamento na área de desenvolvimento de so
 
 <div align="center">
   <a href="https://www.instagram.com/amanda_soaresv">
-    <img src="https://img.shields.io/badge/Instagram-3C0A6D?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-7B4AE2?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amandasoaresvieira5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-3C0A6D?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-7B4AE2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/amanda-soares-vieira-127853351">
-    <img src="https://img.shields.io/badge/LinkedIn-3C0A6D?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-7B4AE2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
 
 ---
 
