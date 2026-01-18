@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?color=3C0A6D&size=34&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Amanda+Soares."
+    src="https://readme-typing-svg.herokuapp.com/?color=7B4AE2&size=34&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Amanda+Soares."
   />
 </div>
 
@@ -9,7 +9,7 @@
 ## Sobre mim
 
 Tenho **19 anos** e sou estudante do último ano do **Curso Técnico em Informática** pela **UTFPR – Campus Campo Mourão**.  
-Atualmente estou em processo de aprofundamento na área de desenvolvimento de software, buscando evoluir continuamente por meio de estudos, projetos práticos e boas práticas de programação.
+Atualmente, estou focada no desenvolvimento de minhas habilidades na área de software, buscando evolução contínua por meio de estudos, projetos práticos e contato com boas práticas de programação.
 
 ---
 
@@ -25,7 +25,7 @@ Atualmente estou em processo de aprofundamento na área de desenvolvimento de so
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaSoaresV&layout=compact&bg_color=0D1117&title_color=3C0A6D&text_color=C9D1D9&icon_color=5B2A86&border_color=3C0A6D"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaSoaresV&layout=compact&bg_color=0D1117&title_color=7B4AE2&text_color=C9D1D9&icon_color=7B4AE2&border_color=7B4AE2"
     height="160"
   />
 </div>
@@ -36,8 +36,7 @@ Atualmente estou em processo de aprofundamento na área de desenvolvimento de so
 
 <div align="center">
   <a href="https://www.instagram.com/amanda_soaresv">
-    <img src="https://img.shields.io/badge/LinkedIn-3C0A6D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=5B2A86" />
-
+    <img src="https://img.shields.io/badge/Instagram-7B4AE2?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amandasoaresvieira5@gmail.com">
@@ -48,7 +47,6 @@ Atualmente estou em processo de aprofundamento na área de desenvolvimento de so
     <img src="https://img.shields.io/badge/LinkedIn-7B4AE2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
 
 ---
 
