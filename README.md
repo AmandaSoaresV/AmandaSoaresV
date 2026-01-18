@@ -8,27 +8,19 @@
 
 ## Sobre mim
 
-Tenho **19 anos** e sou estudante do último ano do **Curso Técnico em Informática** pela  
-**UTFPR – Campus Campo Mourão**.
+Tenho **19 anos** e sou estudante do último ano do **Curso Técnico em Informática** pela **UTFPR – Campus Campo Mourão**.
 
 ---
 
 ## Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,py,react,vue,vite,postgres,supabase,tailwind,git" />
+ [![tecnologias](https://skillicons.dev/icons?i=html,css,js,py,react,vue,vite,postgres,supabase,figma,git)](https://skillicons.dev)
 </div>
 
 ---
 
 ## GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmandaSoaresV&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaSoaresV&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br />
 
 <div align="center">
   
@@ -40,19 +32,20 @@ Tenho **19 anos** e sou estudante do último ano do **Curso Técnico em Informá
 
 ## Contato
 
-<p align="center">
-  <a href="mailto:amandasoaresvieira5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/amanda-soares-vieira-127853351" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<h2 align="center">
+  <a href="https://www.instagram.com/amanda_soar6s" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://www.instagram.com/amanda_soar6s" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="mailto:amandasoaresvieira5@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
+
+  <a href="https://www.linkedin.com/in/amanda-soares-vieira-127853351" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</h2>
+
 
 ---
 
