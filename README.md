@@ -21,17 +21,6 @@ Sigo estudando e praticando, buscando evoluir cada vez mais na área.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaSoaresV&layout=compact&bg_color=0D1117&title_color=7B4AE2&text_color=C9D1D9&icon_color=7B4AE2&border_color=7B4AE2"
-    height="160"
-  />
-</div>
-
----
-
 ## Contato
 
 <div align="center">
