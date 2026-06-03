@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Tenho **19 anos** e sou formada no **Curso Técnico em Informática** pela **UTFPR – Campus Campo Mourão**, atualmente sou estudante de **Engenharia de Software** no Integrado. Sigo estudando e praticando, buscando evoluir cada vez mais na área.
+Tenho **20 anos** e sou formada no **Curso Técnico em Informática** pela **UTFPR – Campus Campo Mourão**, atualmente sou estudante de **Engenharia de Software** no Integrado. Sigo estudando e praticando, buscando evoluir cada vez mais na área.
 
 ---
 
