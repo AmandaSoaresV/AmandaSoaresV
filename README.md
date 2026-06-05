@@ -15,7 +15,7 @@ Tenho **20 anos** e sou formada no **Curso Técnico em Informática** pela **UTF
 ## Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,react,vue,vite,postgres,supabase,figma,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,py,react,vue,vite,postgres,supabase,figma,git&theme=dark" />
 </div>
 
 ---
